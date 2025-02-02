@@ -10,7 +10,7 @@ This project collected and analyzes trip data from the New York City Taxi and Li
 2. Identify key insights about passenger behavior and payment methods.
 3. Apply statistical methods to uncover relationships between variables
 
-### Project Objectives:
+## Project Objectives:
 (1) Develop a model that helps estimate taxi fares before the ride, based on data that TLC has gathered.
 (2) Develop another model to help Taxi drivers generate more revenue, by predicting wheather a customer is a generous tipper or not.
 
@@ -73,3 +73,9 @@ o	The standard rate applied to these locations impacts overall fare amounts.
 3.	Payment Methods and Tipping Behaviour:
 o	Customers paying via credit card tend to pay higher fares than those using cash.
 o	34% of passengers tip 20% or more of their total fare, highlighting a segment of generous tippers.
+
+Dataset Source: Google Advanced Data Analytics Course - <a href ="https://github.com/Titanking333/First-Year/blob/main/2017_Yellow_Taxi_Trip_Data.csv">Dataset</a>
+
+Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behaviour.
+
+
