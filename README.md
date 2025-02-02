@@ -28,7 +28,7 @@ This project collected and analyzes trip data from the New York City Taxi and Li
 2.	 Constructing of more columns using the existing ones was also implemented.
 3.	EDA was carried out to understand the elements of the data and full out oddities, which then required more data cleaning.
 4.	Visualisations like bar charts using python was used to paint images of what the numbers and groups were saying.
-5.	Power BI greatly enhanced those said images to a greater degree.
+5.	Power BI greatly enhanced those said images to a greater degree. - <a href="https://github.com/Titanking333/First-Year/blob/main/Taxi%20data%20Insight%20Report.pbix">Taxi data Insights</a>
 6.	A/B testing was carried out to test an assumption of two groups.
 7.	Regression models were constructed to predict future fare amount based on the available data.
 8.	Classification models were also constructed to predict likely generous customers.
