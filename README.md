@@ -57,5 +57,6 @@ Since 1971, the NYC Taxi and Limousine Commission (TLC) has regulated and overse
 
 
 ## **📢 Acknowledgments**
-Dataset Source: **Google Advanced Data Analytics Course - NYC Open Data Program**  <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/2017_Yellow_Taxi_Trip_Data.csv> Datasource </a>
+Dataset Source: **Google Advanced Data Analytics Course - NYC Open Data Program** -  <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/2017_Yellow_Taxi_Trip_Data.csv> Datasource </a>.
+
 Note: This dataset was created for educational purposes and may not fully represent NYC taxi riders' behavior. 🚕
