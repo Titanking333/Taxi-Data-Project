@@ -67,9 +67,9 @@ Since 1971, the NYC Taxi and Limousine Commission (TLC) has regulated and overse
 
 ├── 📁 models (Saved Machine Learning Models)
 
-├── 📁 dashboards - <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/Taxi%20data%20Insight%20Report.pbix> Power BI Dashboards & Visualizations (General) </a>
+├── 📁 dashboards -  <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/Taxi%20data%20Insight%20Report.pbix> Power BI Dashboards & Visualizations (General) </a>
 
-├── 📁 ---------- - <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/Taxi%20Total%20amount%20and%20tip%20above%20average.pbix> Power BI Dashboards & Visualizations (Ballers) </a>
+                     <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/Taxi%20Total%20amount%20and%20tip%20above%20average.pbix> Power BI Dashboards & Visualizations (Ballers) </a>
 
 ├── 📁 reports (MS Word Report)
 
