@@ -55,8 +55,30 @@ Since 1971, the NYC Taxi and Limousine Commission (TLC) has regulated and overse
 - **Strategic Routing:** Prioritize pickups and drop-offs at **high-revenue locations**.
 - **Leverage Predictive Models:** Use insights to **adjust fares dynamically**.
 
+## **📂 Project Structure**
+
+📦 NYC-Taxi-Data-Analysis
+
+├── 📄 README.md (Project Overview)
+
+├── 📁 data  -  <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/2017_Yellow_Taxi_Trip_Data.csv> Dataset  </a>.
+
+├── 📁 notebooks - <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/New%20York%20City%20Taxi%20and%20Limousine%20Commission%20(TLC).ipynb> Cleaning Scripts,EDA, Feature Engineering, Model Training </a>
+
+├── 📁 models (Saved Machine Learning Models)
+
+├── 📁 dashboards - <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/Taxi%20data%20Insight%20Report.pbix> Power BI Dashboards & Visualizations (General) </a>
+
+├── 📁 ---------- - <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/Taxi%20Total%20amount%20and%20tip%20above%20average.pbix> Power BI Dashboards & Visualizations (Ballers) </a>
+
+├── 📁 reports (MS Word Report)
+
 
 ## **📢 Acknowledgments**
-Dataset Source: **Google Advanced Data Analytics Course - NYC Open Data Program** -  <a href = https://github.com/Titanking333/Taxi-Data-Project/blob/main/2017_Yellow_Taxi_Trip_Data.csv> Datasource </a>.
+Dataset Source: **Google Advanced Data Analytics Course - NYC Open Data Program**
 
 Note: This dataset was created for educational purposes and may not fully represent NYC taxi riders' behavior. 🚕
+
+
+
+
